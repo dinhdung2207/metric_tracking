@@ -8,7 +8,7 @@ Database  : MongoDB
 
 
 ## Installation
-
+- clone env.example file to .env and run below commands
 ```bash
 # build to js file
 $ npm run build
